@@ -14,7 +14,10 @@ const App = () =>{
 
   useEffect(()=>{
     getRecipes();
+    // eslint-disable-next-line
   },[query]);
+
+
 
 
   var URL = `https://api.edamam.com/search?q=${query}&app_id=${API_ID}&app_key=${API_KEY}`;
@@ -36,12 +39,11 @@ const getSearch = e =>{
 }
   
 
-  var [counter,setCounter] = useState(0);
   return(
     <div className = "App" >
       <h3 className="App-h3" ><em>Search Recipes of your Favourite Food Item.</em></h3>
       <form onSubmit={getSearch} className="search-form" >
-        <input className = "search-bar" type="text" value={search} onChange={updateSearch} />
+        <input className = "search-bar" type="text" value={search} onChange={updateSearch} placeholder="Search Food Item" />
         <button 
         className="search-button"
          type = "submit" >

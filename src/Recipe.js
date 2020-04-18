@@ -15,7 +15,7 @@ var Recipe = ({title,calories,image,ingredients}) =>{
                 <p>{calories}</p>
             </div>
             <div className="contain-recipe-image" >
-                <img className="recipe-image" src={image} alt="image" />
+                <img className="recipe-image" src={image} alt="" />
             </div>
         </div>
     );  
