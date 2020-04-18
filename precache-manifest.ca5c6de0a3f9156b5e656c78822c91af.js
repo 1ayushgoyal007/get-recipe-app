@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "181a092a7aec6bca75433f8810281522",
+    "revision": "d30a3362869e35c53842dbfe51b5f913",
     "url": "/1ayushgoyal007.github.io/get-recipe-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/1ayushgoyal007.github.io/get-recipe-app/static/css/2.66b7f74f.chunk.css"
   },
   {
-    "revision": "ed8069e28d823ce642e4",
-    "url": "/1ayushgoyal007.github.io/get-recipe-app/static/css/main.68a2d3fb.chunk.css"
+    "revision": "5c4c24e73376a3a7fc2c",
+    "url": "/1ayushgoyal007.github.io/get-recipe-app/static/css/main.26eb3470.chunk.css"
   },
   {
     "revision": "ee5e8880f29b72bed45e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/1ayushgoyal007.github.io/get-recipe-app/static/js/2.63d7c07f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed8069e28d823ce642e4",
-    "url": "/1ayushgoyal007.github.io/get-recipe-app/static/js/main.8164e649.chunk.js"
+    "revision": "5c4c24e73376a3a7fc2c",
+    "url": "/1ayushgoyal007.github.io/get-recipe-app/static/js/main.5e0c4620.chunk.js"
   },
   {
     "revision": "0d78256d1575e34f2293",
